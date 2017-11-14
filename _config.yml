@@ -9,7 +9,8 @@ follow: 社交
 indexContent: 在首页是否显示文章详情，true为显示
 imagelink: 联系我的个人图片
 style: 样式地址
-blogName: 博客标题blogDesc: 博客介绍
+blogName: 博客标题
+blogDesc: 博客介绍
 favicon: favicon地址
 theme: 博客的主题
 desqus: 社会化评论的id
